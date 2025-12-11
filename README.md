@@ -87,8 +87,8 @@ You will see each user’s **new randomly generated password**.
 ---
 
 ## 📸 Screenshots
-* ![**Runing the script**](Script/Screenshots/Runing_the_script01.png)
-* ![**Password.csv file has successfully created**](Script/Screenshots/Password_csv_has_been_created02.png)
+* ![**Runing the script**](Screenshots/IMG_2919.png)
+* ![**Password.csv file has successfully created**](Screenshots/IMG_2920.png)
 
 --- 
 
