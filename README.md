@@ -100,3 +100,16 @@ You will see each user’s **new randomly generated password**.
 * **PowerShell automation design**
 * **Safe error handling**
 * **File & folder management** in scripts
+
+---
+
+## 📜 License
+
+This project is released under the **MIT License**.
+Feel free to modify and use it in your environment or portfolio.
+
+---
+
+## 🙌 Credits
+
+Created by **ITspcilst**, with a goal to automate multiple user accounts password reset process and demonstrate practical PowerShell & AD administration skills.
